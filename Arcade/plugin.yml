@@ -3,5 +3,5 @@ author: pm_dragon
 version: 1.0
 
 commands:
-	helpbook:
-		description: Gives you a help book of the Arcade
+    helpbook:
+        description: Gives you a help book of the Arcade
